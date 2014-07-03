@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Town of Salem Translations\n"
-"POT-Creation-Date: 2014-07-03 12:23-0500\n"
-"PO-Revision-Date: 2014-07-03 12:23-0500\n"
+"POT-Creation-Date: 2014-07-03 12:29-0500\n"
+"PO-Revision-Date: 2014-07-03 12:29-0500\n"
 "Last-Translator: iggyvolz <iggyvolz@aim.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -18,7 +18,7 @@ msgstr ""
 msgid "Amnesiac"
 msgstr ""
 
-#: ../translations/RoleCards.php:3 ../translations/RoleCards.php:19
+#: ../translations/RoleCards.php:3
 msgid "Alignment"
 msgstr ""
 
@@ -82,166 +82,166 @@ msgstr ""
 msgid "Blackmailer"
 msgstr ""
 
-#: ../translations/RoleCards.php:20
+#: ../translations/RoleCards.php:19
 msgid "Mafia"
 msgstr ""
 
-#: ../translations/RoleCards.php:21
+#: ../translations/RoleCards.php:20
 msgid "Support"
 msgstr ""
 
-#: ../translations/RoleCards.php:22
+#: ../translations/RoleCards.php:21
 msgid "Choose one person each night to blackmail."
 msgstr ""
 
-#: ../translations/RoleCards.php:23
+#: ../translations/RoleCards.php:22
 msgid "Blackmailed targets can not talk during the day."
 msgstr ""
 
-#: ../translations/RoleCards.php:24 ../translations/RoleCards.php:61
+#: ../translations/RoleCards.php:23 ../translations/RoleCards.php:60
 msgid ""
 "If there are no kill capable Mafia roles left you will become a Mafioso."
 msgstr ""
 
-#: ../translations/RoleCards.php:25 ../translations/RoleCards.php:37
+#: ../translations/RoleCards.php:24 ../translations/RoleCards.php:36
 msgid "You can talk with the other Mafia at night."
 msgstr ""
 
-#: ../translations/RoleCards.php:26
+#: ../translations/RoleCards.php:25
 msgid "Kill anyone that will not submit to the Mafia."
 msgstr ""
 
-#: ../translations/RoleCards.php:27
+#: ../translations/RoleCards.php:26
 msgid "BodyGuard"
 msgstr ""
 
-#: ../translations/RoleCards.php:28
+#: ../translations/RoleCards.php:27
 msgid "Town"
 msgstr ""
 
-#: ../translations/RoleCards.php:29
+#: ../translations/RoleCards.php:28
 msgid "Protective"
 msgstr ""
 
-#: ../translations/RoleCards.php:30
+#: ../translations/RoleCards.php:29
 msgid "Protect one person from death at night."
 msgstr ""
 
-#: ../translations/RoleCards.php:31
+#: ../translations/RoleCards.php:30
 msgid "If your target is attacked both you and your attacker will die instead."
 msgstr ""
 
-#: ../translations/RoleCards.php:32
+#: ../translations/RoleCards.php:31
 msgid "If you successfully protect someone you can\\'t be saved from death."
 msgstr ""
 
-#: ../translations/RoleCards.php:33
+#: ../translations/RoleCards.php:32
 msgid "Your counterattack ignores night immunity."
 msgstr ""
 
-#: ../translations/RoleCards.php:34
+#: ../translations/RoleCards.php:33
 msgid "Lynch every criminal and evildoer."
 msgstr ""
 
-#: ../translations/RoleCards.php:35
+#: ../translations/RoleCards.php:34
 msgid "Consigliere"
 msgstr ""
 
-#: ../translations/RoleCards.php:36
+#: ../translations/RoleCards.php:35
 msgid "Check one person for their exact role each night."
 msgstr ""
 
-#: ../translations/RoleCards.php:38
+#: ../translations/RoleCards.php:37
 msgid "Consort"
 msgstr ""
 
-#: ../translations/RoleCards.php:39
+#: ../translations/RoleCards.php:38
 msgid "Distract someone each night."
 msgstr ""
 
-#: ../translations/RoleCards.php:40
+#: ../translations/RoleCards.php:39
 msgid "Distraction blocks your target from using their role\\'s night ability."
 msgstr ""
 
-#: ../translations/RoleCards.php:41
+#: ../translations/RoleCards.php:40
 msgid "You are immune to role blocks."
 msgstr ""
 
-#: ../translations/RoleCards.php:42
+#: ../translations/RoleCards.php:41
 msgid "Disguiser"
 msgstr ""
 
-#: ../translations/RoleCards.php:43
+#: ../translations/RoleCards.php:42
 msgid "Deception"
 msgstr ""
 
-#: ../translations/RoleCards.php:44
+#: ../translations/RoleCards.php:43
 msgid "Choose a target to disguise yourself as."
 msgstr ""
 
-#: ../translations/RoleCards.php:45
+#: ../translations/RoleCards.php:44
 msgid "If your target dies you will appear to be them."
 msgstr ""
 
-#: ../translations/RoleCards.php:46
+#: ../translations/RoleCards.php:45
 msgid "You can only use your night ability three times."
 msgstr ""
 
-#: ../translations/RoleCards.php:47
+#: ../translations/RoleCards.php:46
 msgid ""
 "After disguising your name, position and character will be swapped with your "
 "targets."
 msgstr ""
 
-#: ../translations/RoleCards.php:48
+#: ../translations/RoleCards.php:47
 msgid "Doctor"
 msgstr ""
 
-#: ../translations/RoleCards.php:49
+#: ../translations/RoleCards.php:48
 msgid "Heal one person each night, preventing them from dying."
 msgstr ""
 
-#: ../translations/RoleCards.php:50
+#: ../translations/RoleCards.php:49
 msgid "You may only heal yourself once."
 msgstr ""
 
-#: ../translations/RoleCards.php:51
+#: ../translations/RoleCards.php:50
 msgid "You will know if your target is attacked."
 msgstr ""
 
-#: ../translations/RoleCards.php:52
+#: ../translations/RoleCards.php:51
 msgid "Escort"
 msgstr ""
 
-#: ../translations/RoleCards.php:53
+#: ../translations/RoleCards.php:52
 msgid "Executioner"
 msgstr ""
 
-#: ../translations/RoleCards.php:54
+#: ../translations/RoleCards.php:53
 msgid "Evil"
 msgstr ""
 
-#: ../translations/RoleCards.php:55
+#: ../translations/RoleCards.php:54
 msgid "Trick the Town into lynching your target."
 msgstr ""
 
-#: ../translations/RoleCards.php:56
+#: ../translations/RoleCards.php:55
 msgid "If your target is killed at night you will become a Jester."
 msgstr ""
 
-#: ../translations/RoleCards.php:57
+#: ../translations/RoleCards.php:56
 msgid "Get your target lynched at any cost"
 msgstr ""
 
-#: ../translations/RoleCards.php:58
+#: ../translations/RoleCards.php:57
 msgid "Framer"
 msgstr ""
 
-#: ../translations/RoleCards.php:59
+#: ../translations/RoleCards.php:58
 msgid "Choose someone to frame at night."
 msgstr ""
 
-#: ../translations/RoleCards.php:60
+#: ../translations/RoleCards.php:59
 msgid ""
 "If your target is investigated they will appear to be a member of the Mafia."
 msgstr ""

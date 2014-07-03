@@ -16,7 +16,6 @@ _("Death from fire can\'t be prevented by healing or night immunities.");
 _("Select yourself to ignite doused people.");
 _("Live to see everyone burn.");
 _("Blackmailer");
-_("Alignment");
 _("Mafia");
 _("Support");
 _("Choose one person each night to blackmail.");
