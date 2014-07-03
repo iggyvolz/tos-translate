@@ -59,4 +59,3 @@ _("Framer");
 _("Choose someone to frame at night.");
 _("If your target is investigated they will appear to be a member of the Mafia.");
 _("If there are no kill capable Mafia roles left you will become a Mafioso.");
-_("
